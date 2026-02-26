@@ -1,0 +1,7 @@
+{
+  "name": "CSG - Dynamic Pro Portfolio & CMS",
+  "description": "A high-performance, fully dynamic portfolio website with a built-in administrative dashboard for real-time content management, SEO optimization, and lead tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
